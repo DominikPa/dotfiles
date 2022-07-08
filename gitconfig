@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = parak.dominik@gmail.com
+	name = Dominik Parak
